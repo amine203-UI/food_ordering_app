@@ -110,5 +110,3 @@ npx expo start
 
 Open your ExpoGO app on your phone and scan the QR code to view the project.
 
-👨‍💻 Author Amine Ould Medjeber Full-Stack Developer 
-[ouldmedjeberamine@gmail.com] 🌐 [www.linkedin.com/in/amine-medjeber]
